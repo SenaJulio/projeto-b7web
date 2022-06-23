@@ -125,5 +125,5 @@ font-size: 21px;
     display: flex;
     justify-content: space-between;
     border-bottom: 1px solid rgba(255, 255, 255, 0.247);
-    margin-bottom: -1rem;
+    margin-bottom: -0.5rem;
 }
